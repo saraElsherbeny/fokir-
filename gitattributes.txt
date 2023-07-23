@@ -1,0 +1,3 @@
+* text-auto
+*.jpg pinary
+*.png pinary
